@@ -1,0 +1,6 @@
+.env
+ui/node_modules
+src/app/__pycache__
+src/app/models/__pycache__
+src/app/services/__pycache__
+src/app/api/__pycache__
